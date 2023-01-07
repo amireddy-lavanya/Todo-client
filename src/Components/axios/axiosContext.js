@@ -27,7 +27,7 @@ export const Provider = (props)=>{
     }
     const userSignUp = (userData)=>{
         try{
-            axios.post("http://localhost:3000/register" , userData)
+            axios.post("https://todo-s.onrender.com/register" , userData)
             .then ((res)=>{
                 nav('/');
                 window.alert("Registration Successfull")
