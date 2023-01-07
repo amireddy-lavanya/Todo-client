@@ -1,0 +1,22 @@
+input{
+    width: 200px;
+    height: 40px;
+    border: none; 
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 0px 15px;
+    margin-top:10px;
+}
+.register-btn{
+    width: 200px;
+    height: 40px;
+    /* border: none; */
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    cursor:pointer;
+    margin-top: 20px;;
+}
+.centre{
+    
+    margin-left: 40px;
+}

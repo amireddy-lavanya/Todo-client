@@ -1,0 +1,47 @@
+h1{
+    text-align:center
+}
+.centre{
+    
+    margin-left: 40px;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border: none; 
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 0px 15px;
+    margin-top:10px;
+}
+ .login-btn{
+    width: 200px;
+    height: 40px;
+    /* border: none; */
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    cursor:pointer;
+} 
+.register-btn{
+    width: 200px;
+    height: 40px;
+    /* border: none; */
+    border-radius: 10px; 
+    cursor:pointer;
+}
+.login-form ,.register-form{
+    background-color: lightcoral;
+    width:20%;
+    margin:0px auto;
+    height:230px;
+    padding: 40px 0px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.log-email{
+    margin-bottom: 20px;
+}
+
+.login-btn{
+    margin-top: 10px;
+}
